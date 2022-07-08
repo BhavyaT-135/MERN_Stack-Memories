@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 
 //A mongoose schema is a blueprint for the data that will be stored in the database.
-const postSchema = mongooe.Schema({
+const postSchema = mongoose.Schema({
     title: String,
     message: String,
     creator: String,
