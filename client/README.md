@@ -1,4 +1,4 @@
-# MERN_Stack Memories :eyes:
+# MERN-Stack Memories :eyes:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
